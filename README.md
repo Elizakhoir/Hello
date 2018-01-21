@@ -1,6 +1,6 @@
 ## Welcome to MY PAGE
 
-You will found article about healthy in this page
+You will findarticle about healthy in this page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
